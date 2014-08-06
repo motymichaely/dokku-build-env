@@ -7,7 +7,6 @@ Allows you to specify custom environment variables for the build stage of your a
 ```sh
 cd /var/lib/dokku/plugins
 git clone https://github.com/cameron-martin/dokku-build-env.git build-env
-dokku plugins-install
 ```
 
 ## Usage
