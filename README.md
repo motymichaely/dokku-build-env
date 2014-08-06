@@ -18,7 +18,7 @@ Add any environment variables to `/home/dokku/BUILD_ENV`, like so
 export VAR_NAME=value
 ```
 
-## Example
+### Example
 
 Amazon S3 kept timing out when pushing, resulting in the following error
 
